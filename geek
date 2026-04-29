@@ -5,14 +5,7 @@
   
   ],
   "sites": [
-    {
-      "key": "天天",
-      "name": "天天┃高峰期卡就点击换源或者搜索",
-      "type": 3,
-      "api": "csp_TTian",
-      "playerType": 2,
-      "ext": "7lj763gg0939791h1l3888jig44gi291li"
-    },
+
     {
       "key": "🚀 火狐 | T4",
       "name": "🚀 火狐 | T4",
@@ -49,31 +42,12 @@
       ]
     },
     {
-      "key": "🐍 猎手 | PY",
-      "name": "🐍 猎手 | PY",
+      "key": "天天",
+      "name": "天天┃高峰期卡就点击换源或者搜索",
       "type": 3,
-      "api": "https://gh.bugdey.us.kg/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/py_%E7%94%B5%E5%BD%B1%E7%8C%8E%E6%89%8B.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "🐍 外国剧 | PY",
-      "name": "🐍 外国剧 | PY",
-      "type": 3,
-      "api": "https://gh.bugdey.us.kg/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/py_guowaiju.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "🐍 PP | PY",
-      "name": "🐍 PP | PY",
-      "type": 3,
-      "api": "https://gh.bugdey.us.kg/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/pp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
+      "api": "csp_TTian",
+      "playerType": 2,
+      "ext": "7lj763gg0939791h1l3888jig44gi291li"
     }
 
   ],

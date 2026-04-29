@@ -182,17 +182,7 @@
         "欧美综艺"
       ]
     },
-    {
-      "key": "csp_New6v",
-      "name": "🧡6V┃收集",
-      "type": 3,
-      "jar": "https://gitee.com/zhujrong/zy/raw/master/jars/xyq.jar",
-      "api": "csp_New6v",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.xb6v.com"
-    },
+
     {
       "key": "如意",
       "name": "🧡综合1┃收集",

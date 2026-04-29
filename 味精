@@ -1310,6 +1310,13 @@
   ],
   "lives": [
     {
+      "name": "野马影视🇹🇭港澳台",
+      "type": 0,
+      "url": "https://t.freetv.fun/m3u/playlist_all_original.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
       "name": "味精直播",
       "type": 0,
       "url": "https://gitee.com/monosodium-glutamate/wjwj/raw/master/wjzb",

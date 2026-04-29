@@ -49,23 +49,7 @@
       "playerType": 2,
       "ext": "7lj763gg0939791h1l3888jig44gi291li"
     },
-    {
-      "key": "天翼影",
-      "name": "🧡天翼4K┃收集",
-      "type": 1,
-      "api": "http://7.qqqtv.top/api.php/provide/vod/",
-      "jar": "http://110.42.36.65:2345/spider.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "推荐",
-        "电影",
-        "电视剧",
-        "综艺",
-        "动漫"
-      ]
-    },
+
     {
       "key": "360zy",
       "name": "🧡飞龙|收集",
@@ -451,21 +435,7 @@
       "searchable": 1,
       "changeable": 1
     },
-    {
-      "key": "儿童",
-      "name": "📚┃儿童┃启蒙",
-      "type": 3,
-      "api": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "jar": "http://47.120.41.246:8025/vip/jar/xiaomi.php",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js"
-    },
+
     {
       "key": "csp_少儿",
       "name": "📚┃少儿┃教育",
@@ -533,115 +503,8 @@
         "type": "rect",
         "ratio": 1.333
       }
-    },
-    {
-      "key": "MV",
-      "name": "🌈歌曲┃哔哩",
-      "type": 3,
-      "api": "https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/js/drpy2.min.js",
-      "jar": "http://47.120.41.246:8025/vip/jar/xiaomi.php",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "order_num": 142,
-      "ext": "https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/js/我的哔哩.js?type=url&params=https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/Bilibili/歌曲MV.json"
-    },
-    {
-      "key": "美食",
-      "name": "🌈美食┃哔哩",
-      "type": 3,
-      "api": "https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/js/drpy2.min.js",
-      "jar": "http://47.120.41.246:8025/vip/jar/xiaomi.php",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "order_num": 142,
-      "ext": "https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/js/我的哔哩.js?type=url&params=https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/Bilibili/美食.json"
-    },
-    {
-      "key": "Aid",
-      "name": "🚑急救┃知识",
-      "type": 3,
-      "api": "csp_FirstAid",
-      "jar": "http://47.120.41.246:8025/vip/jar/xiaomi.php",
-      "searchable": 0,
-      "quickSearch": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 3.8
-      }
-    },
-    {
-      "key": "csp_Bili_zyy",
-      "name": "🏥中医药材✨药区汇总",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.333
-      },
-      "jar": "https://13537.kstore.vip/主接口4K﹢蓝光/lib/duo.jar",
-      "ext": "https://13537.kstore.vip/主接口4K﹢蓝光/lib/中医药.json"
-    },
-    {
-      "key": "csp_Bili_xuqu1",
-      "name": "🇨🇳戏曲大院✨资源汇总",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.333
-      },
-      "jar": "https://13537.kstore.vip/主接口4K﹢蓝光/lib/duo.jar",
-      "ext": "https://13537.kstore.vip/主接口4K﹢蓝光/lib/戏曲.json"
-    },
-    {
-      "key": "csp_Bili_xiangsh",
-      "name": "🤓相声小品✨资源回放",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.333
-      },
-      "jar": "https://13537.kstore.vip/主接口4K﹢蓝光/lib/duo.jar",
-      "ext": "https://13537.kstore.vip/主接口4K﹢蓝光/lib/相声小品.json"
-    },
-    {
-      "key": "csp_Bili_TYjs",
-      "name": "👑体育健身✨运动实操",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.333
-      },
-      "jar": "https://13537.kstore.vip/主接口4K﹢蓝光/lib/duo.jar",
-      "ext": "https://13537.kstore.vip/主接口4K﹢蓝光/lib/体育健身.json"
-    },
-    {
-      "key": "DG音乐仓",
-      "name": "DG音乐台",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "http://1.94.31.214/dgyybd/dgyy/fty24.jar;md5;329e914a90b0bb5c7cb69b0eaec19700",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "https://ddzb.fun/dgmusic/ych.json"
     }
+
   ],
   "parses": [
     {

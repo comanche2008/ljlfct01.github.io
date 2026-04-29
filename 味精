@@ -1271,7 +1271,11 @@
  
   ],
   "parses": [
-
+     {
+      "name": "极速4k",
+      "type": 1,
+      "url": "https://co4k.1ljx.com:32010/api/?key=7899dafb-0b75-4ee9-8944-6c23a7827791&url="
+    }
   ],
   "flags": [
     "youku",

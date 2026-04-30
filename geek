@@ -2,13 +2,6 @@
   "spider": "https://mpimg.cn/down.php/f2d196f8d411313f00000f24e257b6e6.jar",
   "wallpaper": "https://bing.img.run/uhd.php",
   "lives": [
-    {
-      "name": "🐅全网通直播",
-      "type": 0,
-      "url": "http://token.kuaidou.tv:13000/api/v1/box/iptv/free",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
 
   ],
   "sites": [

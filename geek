@@ -8,7 +8,7 @@
       "url": "http://token.kuaidou.tv:13000/api/v1/box/iptv/free/auth",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
+    }
 
   ],
   "sites": [

@@ -117,8 +117,8 @@ globalThis.proxyPool = [
 
 // 解析接口池（整合所有解析接口，去重，包含原lazy里的所有接口）
 globalThis.parseApiPool = [
+    "http://jiexi.fc8001.top/OShStfcsWZhzDTap.php?url=",
     "https://fanghu.52xiaobai.cn/qq4k/qq4k.php?url=",
-    "http://vip.aidianying.sbs/Smdy/Baomihua?token=1V26Qpr4&url=",
     "http://niubi.69mini.com/api/?key=h28y9WWIgO2BU25bpW&url=",
     "http://015326.xyz:5080/video/api.php?url=",
     "http://zq0143yimmi.xian.zxtongshuo.cn/4kapi/qq.php?url=",

@@ -119,9 +119,9 @@ globalThis.proxyPool = [
 globalThis.parseApiPool = [
     "http://jiexi.fc8001.top/OShStfcsWZhzDTap.php?url=",
     "https://fanghu.52xiaobai.cn/qq4k/qq4k.php?url=",
-    "http://niubi.69mini.com/api/?key=h28y9WWIgO2BU25bpW&url=",
-    "http://015326.xyz:5080/video/api.php?url=",
-    "http://zq0143yimmi.xian.zxtongshuo.cn/4kapi/qq.php?url=",
+    "https://129jx.aidianying.sbs/api/?key=5873617593D0C2H&url=",
+    "https://xy.183933.xyz/xiayede.php?key=hy1966&url=",
+    "http://61.184.23.217:6897/api/?key=7d54b644b101a57719a666ca4fc50854&url=",
     "https://j.69mini.com/api/?key=3DkoNDlBsA1Re0uTnr&url="
 ];
 
@@ -889,7 +889,7 @@ var rule = {
     },
     timeout: 5000,
     cate_exclude: '会员|游戏|全部',
-    class_name: '🎀味精推荐&臻彩⚡4K电影&臻彩⚡4K电视剧&臻彩⚡4K综艺&臻彩⚡4K动漫&臻彩⚡4K少儿&臻彩⚡4K纪录片',
+    class_name: '🎀老三推荐&臻彩⚡4K电影&臻彩⚡4K电视剧&臻彩⚡4K综艺&臻彩⚡4K动漫&臻彩⚡4K少儿&臻彩⚡4K纪录片',
     class_url: 'choice&movie&tv&variety&cartoon&child&doco',
     limit: 20,
     play_parse: true,
@@ -1085,7 +1085,7 @@ var rule = {
         let zp = d.filter(function(it) {
             return !(it.type && it.type !== "正片")
         });
-        VOD.vod_play_from = yg.length < 1 ? "味精4K" : "味精4K$$$预告及花絮";
+        VOD.vod_play_from = yg.length < 1 ? "老三4K" : "老三4K$$$预告及花絮";
         VOD.vod_play_url = yg.length < 1 ? d.map(function(it) {
             return it.title + "$" + it.url
         }).join("#") : [zp, yg].map(function(it) {

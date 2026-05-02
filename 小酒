@@ -328,8 +328,12 @@
       "name": "臻彩4k专线",
       "type": 1,
       "url": "http://183.136.134.152:588//api/index?parsesId=23&appid=10000&videoUrl="
+    },
+   {
+      "name": "臻彩4k专线1",
+      "type": 1,
+      "url": "http://43.138.212.149:66/api/index?parsesId=2&appid=10001&videoUrl="
     }
-
   ],
   "doh": [],
   "hosts": [

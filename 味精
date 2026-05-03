@@ -115,7 +115,7 @@
       "key": "猫头鹰",
       "name": "🦉猫头鹰┃秒播",
       "type": 3,
-      "api": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
+      "api": "https://raw.giteeusercontent.com/monosodium-glutamate/wjwj/raw/master/lib/get.js",
       "searchable": 1,
       "ext": {
         "host": "https://maotouyinghubei.oss-cn-wuhan-lr.aliyuncs.com/maotouyinghb.txt",
@@ -129,7 +129,7 @@
       "key": "蓝鹰",
       "name": "🦅蓝鹰┃秒播",
       "type": 3,
-      "api": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
+      "api": "https://raw.giteeusercontent.com/monosodium-glutamate/wjwj/raw/master/lib/get.js",
       "searchable": 1,
       "ext": {
         "host": "https://xinlanyinghb.oss-cn-wuhan-lr.aliyuncs.com/xly.txt",
@@ -170,7 +170,7 @@
       "name": "🐮快映┃app",
       "type": 3,
       "changeable": 0,
-      "api": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/jars/Appfox.min.js",
+      "api": "https://raw.giteeusercontent.com/monosodium-glutamate/wjwj/raw/master/jars/Appfox.min.js",
       "ext": {
         "host": "https://www.baidukuaiy.top",
         "ver": 3
@@ -181,7 +181,7 @@
       "key": "YIys",
       "type": 3,
       "api": "csp_YIysAmns",
-      "jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/jars/嗷呜.jar;md5;7370a5264d625d5eedc0f99ba3c8a18d",
+      "jar": "https://raw.giteeusercontent.com/monosodium-glutamate/wjwj/raw/master/jars/嗷呜.jar;md5;7370a5264d625d5eedc0f99ba3c8a18d",
       "searchable": 1,
       "filterable": 1,
       "quickSearch": 1,
@@ -192,7 +192,7 @@
       "key": "NewNoxPx",
       "type": 3,
       "api": "csp_NewNoxAmns",
-      "jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/jars/嗷呜.jar;md5;7370a5264d625d5eedc0f99ba3c8a18d",
+      "jar": "https://raw.giteeusercontent.com/monosodium-glutamate/wjwj/raw/master/jars/嗷呜.jar;md5;7370a5264d625d5eedc0f99ba3c8a18d",
       "searchable": 1,
       "filterable": 1,
       "quickSearch": 1,
@@ -217,7 +217,7 @@
       "key": "NewNoxZy",
       "type": 3,
       "api": "csp_NewNoxAmns",
-      "jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/jars/嗷呜.jar;md5;7370a5264d625d5eedc0f99ba3c8a18d",
+      "jar": "https://raw.giteeusercontent.com/monosodium-glutamate/wjwj/raw/master/jars/嗷呜.jar;md5;7370a5264d625d5eedc0f99ba3c8a18d",
       "searchable": 1,
       "filterable": 1,
       "quickSearch": 1,
@@ -233,7 +233,7 @@
       "key": "NewNoxXm",
       "type": 3,
       "api": "csp_NewNoxAmns",
-      "jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/jars/嗷呜.jar;md5;7370a5264d625d5eedc0f99ba3c8a18d",
+      "jar": "https://raw.giteeusercontent.com/monosodium-glutamate/wjwj/raw/master/jars/嗷呜.jar;md5;7370a5264d625d5eedc0f99ba3c8a18d",
       "searchable": 1,
       "filterable": 1,
       "quickSearch": 1,
@@ -564,7 +564,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/jars/哔哩视频.json",
+        "json": "https://raw.giteeusercontent.com/monosodium-glutamate/wjwj/raw/master/jars/哔哩视频.json",
         "cookie": "SESSDATA=1ea62f66%2C1778671755%2Cc0586%2Ab1CjCJklVSrwpuzU0lV0l9JoyDHcxMNApEEdqttnNeNOfH41mBYYUbrD_YMJ9_k02Poi0SVnVvbUZQc245RFVDN0dPQ2NoeWhnSGg5MUJVb0Fqdy00aUprZklQVURKcHdXc084cXlucmpreDl0VjJNZEtNMGlXaHB0SlJZeDN5S3QybmdLSHBGSnpBIIEC; bili_jct=ba5b7d875e6273ec01577f55543c3a42"
       }
     },
@@ -572,7 +572,7 @@
       "key": "布布",
       "name": "🐷布布┃🈶4K",
       "type": 3,
-      "api": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/布布.js",
+      "api": "https://raw.giteeusercontent.com/monosodium-glutamate/wjwj/raw/master/lib/布布.js",
       "style": {
         "type": "rect",
         "ratio": 1.33
@@ -583,7 +583,7 @@
       "key": "奇奇",
       "name": "😋奇奇┃4K",
       "type": 3,
-      "api": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
+      "api": "https://raw.giteeusercontent.com/monosodium-glutamate/wjwj/raw/master/lib/get.js",
       "searchable": 1,
       "ext": {
         "host": "http://110.42.67.221:8003/",
@@ -712,7 +712,7 @@
       "name": "🌾咕噜┃App",
       "type": 3,
       "changeable": 0,
-      "api": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/jars/Appfox.min.js",
+      "api": "https://raw.giteeusercontent.com/monosodium-glutamate/wjwj/raw/master/jars/Appfox.min.js",
       "ext": {
         "host": "http://www.yingsw.top",
         "timeout": 8,
@@ -916,7 +916,7 @@
       "key": "csp_XPath_企鹅体育",
       "name": "🐧企鹅┃直播",
       "type": 3,
-      "jar": "./jars/fty.jar",
+      "jar": "https://raw.giteeusercontent.com/monosodium-glutamate/wjwj/raw/master/jars/fty.jar",
       "api": "csp_XPath",
       "style": {
         "type": "rect",
@@ -925,7 +925,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/jars/企鹅直播.json"
+      "ext": "https://raw.giteeusercontent.com/monosodium-glutamate/wjwj/raw/master/jars/企鹅直播.json"
     },
     {
       "key": "DouyinLive",
@@ -949,7 +949,7 @@
       "name": "⚽️88┃看球",
       "type": 3,
       "api": "csp_AweSomeGuard",
-      "jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/jars/b9802990a6cff89099e65bc7bd65813c.jpg",
+      "jar": "https://raw.giteeusercontent.com/monosodium-glutamate/wjwj/raw/master/jars/b9802990a6cff89099e65bc7bd65813c.jpg",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
@@ -1111,7 +1111,7 @@
       "key": "MjHggg",
       "type": 3,
       "api": "csp_HgggAmns",
-      "jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/jars/嗷呜.jar;md5;71db9888b04fa21b49768a8e25503df4",
+      "jar": "https://raw.giteeusercontent.com/monosodium-glutamate/wjwj/raw/master/jars/嗷呜.jar;md5;71db9888b04fa21b49768a8e25503df4",
       "searchable": 1,
       "filterable": 1,
       "quickSearch": 1,
@@ -1123,7 +1123,7 @@
       "key": "DjHggg",
       "type": 3,
       "api": "csp_HgggAmns",
-      "jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/jars/嗷呜.jar;md5;71db9888b04fa21b49768a8e25503df4",
+      "jar": "https://raw.giteeusercontent.com/monosodium-glutamate/wjwj/raw/master/jars/嗷呜.jar;md5;71db9888b04fa21b49768a8e25503df4",
       "searchable": 1,
       "filterable": 1,
       "quickSearch": 1,
@@ -1135,7 +1135,7 @@
       "key": "HHkk",
       "type": 3,
       "api": "csp_HHkkAmns",
-      "jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/jars/嗷呜.jar;md5;71db9888b04fa21b49768a8e25503df4",
+      "jar": "https://raw.giteeusercontent.com/monosodium-glutamate/wjwj/raw/master/jars/嗷呜.jar;md5;71db9888b04fa21b49768a8e25503df4",
       "searchable": 1,
       "filterable": 1,
       "quickSearch": 1,
@@ -1148,7 +1148,7 @@
       "type": 3,
       "api": "csp_HemaAmns",
       "searchable": 1,
-      "jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/jars/嗷呜.jar;md5;71db9888b04fa21b49768a8e25503df4",
+      "jar": "https://raw.giteeusercontent.com/monosodium-glutamate/wjwj/raw/master/jars/嗷呜.jar;md5;71db9888b04fa21b49768a8e25503df4",
       "filterable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -1159,7 +1159,7 @@
       "key": "Bddj",
       "type": 3,
       "api": "csp_BddjAmns",
-      "jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/jars/嗷呜.jar;md5;71db9888b04fa21b49768a8e25503df4",
+      "jar": "https://raw.giteeusercontent.com/monosodium-glutamate/wjwj/raw/master/jars/嗷呜.jar;md5;71db9888b04fa21b49768a8e25503df4",
       "searchable": 1,
       "filterable": 1,
       "quickSearch": 1,
@@ -1170,7 +1170,7 @@
       "name": "🎀围观┃短剧",
       "key": "Wgdj",
       "type": 3,
-      "jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/jars/嗷呜.jar;md5;71db9888b04fa21b49768a8e25503df4",
+      "jar": "https://raw.giteeusercontent.com/monosodium-glutamate/wjwj/raw/master/jars/嗷呜.jar;md5;71db9888b04fa21b49768a8e25503df4",
       "api": "csp_WgdjAmns",
       "searchable": 1,
       "filterable": 1,
@@ -1183,7 +1183,7 @@
       "key": "JLdj",
       "type": 3,
       "api": "csp_JLdjAmns",
-      "jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/jars/嗷呜.jar;md5;71db9888b04fa21b49768a8e25503df4",
+      "jar": "https://raw.giteeusercontent.com/monosodium-glutamate/wjwj/raw/master/jars/嗷呜.jar;md5;71db9888b04fa21b49768a8e25503df4",
       "searchable": 1,
       "filterable": 1,
       "quickSearch": 1,
@@ -1195,7 +1195,7 @@
       "key": "TQdj",
       "type": 3,
       "api": "csp_TQdjAmns",
-      "jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/jars/嗷呜.jar;md5;71db9888b04fa21b49768a8e25503df4",
+      "jar": "https://raw.giteeusercontent.com/monosodium-glutamate/wjwj/raw/master/jars/嗷呜.jar;md5;71db9888b04fa21b49768a8e25503df4",
       "searchable": 1,
       "filterable": 1,
       "quickSearch": 1,
@@ -1208,7 +1208,7 @@
       "type": 3,
       "api": "csp_QmdjAmns",
       "searchable": 1,
-      "jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/jars/嗷呜.jar;md5;71db9888b04fa21b49768a8e25503df4",
+      "jar": "https://raw.giteeusercontent.com/monosodium-glutamate/wjwj/raw/master/jars/嗷呜.jar;md5;71db9888b04fa21b49768a8e25503df4",
       "filterable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -1219,7 +1219,7 @@
       "key": "Xydj",
       "type": 3,
       "api": "csp_XydjAmns",
-      "jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/jars/嗷呜.jar;md5;71db9888b04fa21b49768a8e25503df4",
+      "jar": "https://raw.giteeusercontent.com/monosodium-glutamate/wjwj/raw/master/jars/嗷呜.jar;md5;71db9888b04fa21b49768a8e25503df4",
       "searchable": 1,
       "filterable": 1,
       "quickSearch": 1,
@@ -1373,13 +1373,9 @@
       "name": "极速4k",
       "type": 1,
       "url": "http://61.184.23.217:6897/api/?key=7d54b644b101a57719a666ca4fc50854&url="
-    },
-  
-     {
-      "name": "极速4k1",
-      "type": 1,
-      "url": "http://jiexi.fc8001.top/OShStfcsWZhzDTap.php?url="
     }
+  
+
   ],
   "flags": [
     "youku",

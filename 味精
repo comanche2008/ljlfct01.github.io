@@ -66,50 +66,7 @@
         "dataIv": "106jkcdnkldzckjk"
       }
     },
-    {
-      "key": "新腾极4k",
-      "name": "🍁貔貅┃限次4k1",
-      "type": 3,
-      "api": "http://8.148.229.212:802/tianyun4k/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "http://8.148.229.212:802/貔貅4k/lib/貔貅4kTX.js"
-    },
-    {
-      "key": "芒果弹幕",
-      "name": "🍁貔貅┃限次4k2",
-      "type": 3,
-      "api": "http://8.148.229.212:802/tianyun4k/drpy_libs/drpy2.min.js",
-      "ext": "http://8.148.229.212:802/貔貅4k/lib/貔貅4KMG.js"
-    },
-    {
-      "key": "xiaoya",
-      "name": "🔥小雅┃免扫4K",
-      "type": 3,
-      "api": "csp_AListSh",
-      "jar": "http://115.190.114.240:5678/tvbox/libs/xiaoya_proxy.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": [
-        {
-          "name": "小雅网盘",
-          "server": "http://115.190.114.240:5678/",
-          "startPage": "/",
-          "search": true,
-          "noPoster": true
-        },
-        {
-          "name": "每日更新",
-          "server": "http://115.190.114.240:5678/",
-          "startPage": "/每日更新"
-        }
-      ]
-    },
+
     {
       "key": "快映",
       "name": "🐮快映┃app",

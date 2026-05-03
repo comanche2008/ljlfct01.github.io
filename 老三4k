@@ -37,7 +37,7 @@
       "api": "http://183.136.134.152:250/lib/drpy2.min.js",
       "ext": "http://183.136.134.152:250/lib/bili.js"
     },
-{"key":"Youtube","name":"⚡Youtube","type":3,"api":"csp_Youtube","searchable":1,"changeable":1,"style":{"type":"rect","ratio":1.433},"ext":{"commonConfig":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json","json":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/youtube.json","cookie":"http://127.0.0.1:9978/file/TVBox/youtubecookie.json"}},
+{"key":"Youtube","name":"⚡Youtube","type":3,"api":"csp_Youtube","jar": "https://gitee.com/tvboxx/tv/raw/master/jar/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8","searchable":1,"changeable":1,"style":{"type":"rect","ratio":1.433},"ext":{"commonConfig":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json","json":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/youtube.json","cookie":"http://127.0.0.1:9978/file/TVBox/youtubecookie.json"}},
    {
       "key": "金牌",
       "name": "♨️金牌｜4K线路",
